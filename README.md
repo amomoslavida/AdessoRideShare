@@ -34,6 +34,7 @@ Parameters : {
  + /JoinTravel/{id} : "Joins" a travel plan. Can call until all seats are taken. Requires a travel Plan ID as paramete
 
 **Future Improvements :**
-+Concrete User support. 
-+Ability to login and log-out
-+Adding a cartesian Mapping support to create shorthest path and find routes that can be used even if they are not explicitly go through intended target city.
+
++ Concrete User support. 
++ Ability to login and log-out
++ Adding a cartesian Mapping support to create shorthest path and find routes that can be used even if they are not explicitly go through intended target city.
