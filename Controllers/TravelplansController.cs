@@ -166,7 +166,7 @@ namespace AdessoRideShare.Controllers
             {
                 return NotFound();
             }
-
+            
             if (travelPlan.NumberOfTravelers < travelPlan.maxSeats && travelPlan.isPublished == true)
             {
 
