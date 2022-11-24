@@ -1,4 +1,4 @@
-***AdessoRideShare API written in Dotnet core 7.0. Has swagger Support. To Run, copy the repository to your local computer and simply run the project as a standart localhost project. ***
+***AdessoRideShare API written in Dotnet core 7.0. Has swagger Support. To Run, copy the repository to your local computer and simply run the project as a standart localhost project.***
 
 
 **API EndPoints :**
